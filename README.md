@@ -1,17 +1,16 @@
 ![Header](https://github.com/PolinaShurupovatest/PolinaShurupovatest/blob/main/assets/berita-383-memahami-peran-qa-tester-20201230-105658.jpg)
 --
-## Меня зовут Полина, и я тестировщица. Здесь я хочу поделиться некоторыми элементами портфолио, полученными во время моей практики.
+## Привет! Меня зовут Полина, и я тестировщица. Здесь я хочу поделиться некоторыми элементами портфолио, полученными во время моей практики.
 
-<h2>A Few Quick Facts</h2>
+### 👨‍💻 Обо мне:
 <ul>
 <li> 😌 Закончила курсы <a href="https://stepik.org/certificate/647a1a6b71bb92cdc2fc7750ff0b79baf4873122.png">Теория ПО с нуля. Теория + Практика (сертификат)</a>, <a href="https://stepik.org/certificate/8339d84741968ec2dfd9e82c55e3b5fccc37d023.png">Интерактивный тренажер по SQL (сертификат)</a>, Postman-ниндзя: c нуля до автотестов, Software Testing Introduction (RUS) </li>
 <li>📙 Мое новоиспечённое <a href="https://drive.google.com/file/d/1GoxJfRNYe72Dk4xkv3vShFQviefpnJmB/view?usp=sharing">резюме</a></li> 
 <li>🧣 Рандомные факты обо мне: люблю играть в волейбол, танцевать под Old K-pop и влоги о путешествиях </li>
+<li>📫 Как связаться со мной: <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Mail.Ru_Logo_2018_new.png" title="pelageya_shurupova@mail.ru" width="55" height="20" alt="mail.ru"/> <a href="https://t.me/Polina20Syrup" target="_blank"> <img src="https://259506.selcdn.ru/sites-static/site532284/2548a06b-9781-4c5b-b044-6c4b65a5793b/2548a06b-9781-4c5b-b044-6c4b65a5793b-6179692.jpeg" width="60" height="20" alt="telegram" /> </a> </li>
 </ul>
 
-Test
-
-### 🛠 Some Tools I Use:
+### 🛠 Инструменты, которые я использую:
 ---
 <div>
 <p align="center">
@@ -29,3 +28,14 @@ Test
 </div>
 
 ---
+
+### 📁 Артефакты тестирования:
+<p> 
+ <ul>
+<li>  <a href="https://github.com/osukhorukova/web_testing">Документация: чек-лист, тест-кейс, баг-репорт</a>  </li>
+<li>  <a href="https://github.com/osukhorukova/api_testing"> Тестирование API с помощью Postman </a>   </li>
+<li> <a href="https://github.com/osukhorukova/sql">MySQL</a>   </li>
+<li> <a href="https://github.com/osukhorukova/git"> Git </a> </li>
+<li> <a href="https://github.com/osukhorukova/git"> Bash </a> </li>
+</ul>
+</p>
