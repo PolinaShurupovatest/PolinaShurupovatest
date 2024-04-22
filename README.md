@@ -36,6 +36,6 @@
 <li>  <a href="https://github.com/PolinaShurupovatest/API"> Тестирование API с помощью Postman </a>   </li>
 <li> <a href="https://github.com/PolinaShurupovatest/MySQL">MySQL</a>   </li>
 <li> <a href="https://github.com/osukhorukova/git"> Git </a> </li>
-<li> <a href="https://github.com/osukhorukova/git"> Bash </a> </li>
+<li> <a href="https://github.com/PolinaShurupovatest/Bash"> Bash </a> </li>
 </ul>
 </p>
