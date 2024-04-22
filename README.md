@@ -34,7 +34,7 @@
  <ul>
 <li>  <a href="https://github.com/PolinaShurupovatest/Documentation">Документация: чек-лист, тест-кейс, баг-репорт</a>  </li>
 <li>  <a href="https://github.com/PolinaShurupovatest/API"> Тестирование API с помощью Postman </a>   </li>
-<li> <a href="https://github.com/osukhorukova/sql">MySQL</a>   </li>
+<li> <a href="https://github.com/PolinaShurupovatest/MySQL">MySQL</a>   </li>
 <li> <a href="https://github.com/osukhorukova/git"> Git </a> </li>
 <li> <a href="https://github.com/osukhorukova/git"> Bash </a> </li>
 </ul>
